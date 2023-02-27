@@ -36,7 +36,7 @@ To use this applet you must first select an existing localization and then click
 Note: When the icon appears during initialization, then it is ready to hear a localization selection. If for some reason the applet is initialized after you select you need to click off and reselect to populate the panel.
 
 ### Using the applet
-It shows a taxonomic tree and default will populate the search based on the Media's "Organism Name" attribute. The selected item(s) populates the "Data preview" tab. The "Data preview" tab shows the populated attribute panel and shows the option to "Apply" the data. The data should save to the localization, and post and event to the page so the page's attribute panel reflects the new data.
+It shows a taxonomic tree and default will populate the search based on the Media's "Organism Name" attribute. The selected item(s) populates the "Data preview" tab. The "Data preview" tab shows the populated attribute panel and shows the option to "Apply" the data. The the localization will be saved with the data going to the corresponding attributes by the same name (see above). When the post is successful you will see a message and an event sent to the annotation page will refresh the attribute panel to reflect the new data.
 
 
 
