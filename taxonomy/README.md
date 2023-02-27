@@ -1,4 +1,4 @@
-# Taxonomy Helper Applets
+# Taxonomy Helper Applet
 
 This applet uses the WoRMs rest API to allow a user to populate Localization attributes by selecting an item from a taxonomic tree.
 
